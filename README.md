@@ -10,7 +10,7 @@
 
 🤝 Let’s collaborate and turn our coding ideas into reality! Feel free to check out my repositories and join me on this exciting journey of creativity and innovation. Together, let’s build something amazing, one commit at a time! 🌟</p>
 
-<h3 align="left"> 🛠 Languages and Tools:</h3>
+# 🛠 Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,bootstrap,js,mongo,linux,xd,figma,ae,mysql,flask)](https://skillicons.dev)
 <br><br>
