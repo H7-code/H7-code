@@ -1,4 +1,5 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="120" /><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="120" />
 <h3 align="center">👋 Howdy, fellow coders! I'm Hassan, a developer passionate about crafting innovative solutions and tackling challenging problems with code. 💻✨
 
 🚀 Aspiring game and web developer 🎮🌐, I'm driven to create interactive, engaging experiences that merge creativity with functionality. My journey is fueled by a love for learning and exploring new technologies, from Flask to JavaScript, and everything in between.
