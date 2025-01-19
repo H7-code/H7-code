@@ -11,7 +11,8 @@
 🤝 Let’s collaborate and turn our coding ideas into reality! Feel free to check out my repositories and join me on this exciting journey of creativity and innovation. Together, let’s build something amazing, one commit at a time! 🌟</p>
 
 <h3 align="left"> 🛠 Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=python,java,cs,html,css,bootstrap,js,mongo,linux,xd,figma,ae,mysql,ai&theme=dark&perline=9)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,cssbootstrap,js,mongo,linux,xd,figma,ae,mysql)](https://skillicons.dev)
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
