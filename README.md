@@ -12,7 +12,7 @@
 
 <h3 align="left"> 🛠 Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap,js,mongo,linux,xd,figma,ae,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,bootstrap,js,mongo,linux,xd,figma,ae,mysql,flask)](https://skillicons.dev)
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
