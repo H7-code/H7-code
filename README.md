@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+<img align="centre" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 
 <p>👋 Howdy, fellow coders! I'm Hassan, a developer passionate about crafting innovative solutions and tackling challenging problems with code. 💻✨
 
