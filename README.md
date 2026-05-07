@@ -73,13 +73,6 @@ Git • Linux • Jupyter • Colab • VS Code
   <img src="https://github-profile-trophy.vercel.app/?username=H7-code&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/H7-code/H7-code/output/snake-dark.svg" alt="Snake animation" />
-</p>
-
 ## 🌐 Connect With Me
 
 <p align="center">
